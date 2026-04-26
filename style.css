@@ -1,3 +1,4 @@
+/* Poprzednie style, które już masz... */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -15,11 +16,13 @@ a:hover {
     color: red;
 }
 
-/* Nowe style z zadania 17 */
-.card {
-    background: white;
-}
-
 #main-title {
     text-transform: uppercase;
+}
+
+/* Nowa definicja klasy .card z zadania 18 */
+.card {
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #ccc;
 }
