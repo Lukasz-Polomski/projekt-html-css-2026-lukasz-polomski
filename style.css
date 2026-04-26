@@ -14,3 +14,12 @@ a {
 a:hover {
     color: red;
 }
+
+/* Nowe style z zadania 17 */
+.card {
+    background: white;
+}
+
+#main-title {
+    text-transform: uppercase;
+}
