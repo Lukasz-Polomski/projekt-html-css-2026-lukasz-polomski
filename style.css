@@ -1,4 +1,8 @@
-/* Poprzednie style, które już masz... */
+
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -20,9 +24,10 @@ a:hover {
     text-transform: uppercase;
 }
 
-/* Nowa definicja klasy .card z zadania 18 */
 .card {
+    width: 300px;
     padding: 20px;
     margin: 10px;
     border: 2px solid #ccc;
+    background: white;
 }
