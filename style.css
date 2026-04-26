@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+/* Nowe style z zadania 17 */
+.card {
+    background: white;
+}
+
+#main-title {
+    text-transform: uppercase;
+}
